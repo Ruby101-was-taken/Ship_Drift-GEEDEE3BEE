@@ -1182,3 +1182,461 @@ LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2025.11.20-13.08.10:558][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12.329919, Update Interval: 305.982239
 [2025.11.20-13.08.44:877][268]LogSlate: Took 0.000536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.11.20-13.09.51:054][ 64]LogDerivedDataCache: C:/Users/dmeid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.20-13.13.16:767][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 318.876190
+[2025.11.20-13.13.17:765][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.13.17:765][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 319.541077, Update Interval: 346.980804
+[2025.11.20-13.19.07:000][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.108582
+[2025.11.20-13.19.08:000][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.19.08:000][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.776001, Update Interval: 308.025757
+[2025.11.20-13.24.23:720][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 985.828857
+[2025.11.20-13.24.24:719][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.24.24:719][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 986.494446, Update Interval: 338.151184
+[2025.11.20-13.30.11:528][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1333.636475
+[2025.11.20-13.30.12:529][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.30.12:529][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1334.302979, Update Interval: 304.764557
+[2025.11.20-13.35.48:594][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1670.705566
+[2025.11.20-13.35.49:595][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.35.49:595][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1671.371826, Update Interval: 344.543579
+[2025.11.20-13.42.28:732][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2070.846924
+[2025.11.20-13.42.29:731][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.42.29:731][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2071.513184, Update Interval: 352.545532
+[2025.11.20-13.49.08:797][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2470.911865
+[2025.11.20-13.49.09:798][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.49.09:798][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2471.578369, Update Interval: 344.098633
+[2025.11.20-13.55.39:211][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2861.327881
+[2025.11.20-13.55.40:212][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-13.55.40:212][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2861.993896, Update Interval: 350.366516
+[2025.11.20-14.02.12:040][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3254.157227
+[2025.11.20-14.02.13:039][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.02.13:039][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3254.823730, Update Interval: 305.826599
+[2025.11.20-14.08.04:431][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3606.547607
+[2025.11.20-14.08.05:431][325]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.08.05:432][325]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3607.213135, Update Interval: 301.594910
+[2025.11.20-14.09.51:054][642]LogDerivedDataCache: C:/Users/dmeid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.20-14.14.01:001][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3963.118896
+[2025.11.20-14.14.02:001][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.14.02:001][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3963.785156, Update Interval: 340.267944
+[2025.11.20-14.20.38:429][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4360.553711
+[2025.11.20-14.20.39:430][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.20.39:430][528]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4361.221680, Update Interval: 302.995697
+[2025.11.20-14.26.12:517][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4694.642578
+[2025.11.20-14.26.13:517][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.26.13:517][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4695.309082, Update Interval: 315.665161
+[2025.11.20-14.32.11:920][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5054.044922
+[2025.11.20-14.32.12:919][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.32.12:919][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5054.710938, Update Interval: 345.418854
+[2025.11.20-14.38.56:332][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5458.457520
+[2025.11.20-14.38.57:331][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.38.57:333][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5459.125488, Update Interval: 359.289520
+[2025.11.20-14.45.41:397][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5863.522949
+[2025.11.20-14.45.42:397][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.45.42:397][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5864.189941, Update Interval: 340.562744
+[2025.11.20-14.48.54:739][ 62]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.11.20-14.48.54:839][ 62]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.11.20-14.48.54:846][ 62]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.11.20-14.48.54:896][ 64]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.11.20-14.49.00:597][393]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_BaseButton
+[2025.11.20-14.49.00:640][393]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.11.20-14.49.01:951][461]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton
+[2025.11.20-14.49.01:954][461]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.11.20-14.49.01:963][461]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.11.20-14.49.01:973][461]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.11.20-14.49.02:260][461]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-14.49.05:015][461]LogSlate: Took 0.007220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.20-14.49.05:045][461]LogSlate: Took 0.006610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.20-14.49.07:554][584]LogSlate: Window 'W_BaseButton' being destroyed
+[2025.11.20-14.51.01:682][278]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.20-14.51.04:912][461]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.20-14.51.09:250][705]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.20-14.51.12:789][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.11.20-14.51.13:640][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-14.51.13:756][935]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-14.51.13:767][935]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-14.51.13:767][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-14.51.13:797][935]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-14.51.13:797][935]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton41E26471436602F9B1EC2682B000F29C.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-14.51.13:821][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.909 ms
+[2025.11.20-14.51.13:953][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-14.51.13:953][935]LogContentValidation: Enabled validators:
+[2025.11.20-14.51.13:955][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-14.51.13:955][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-14.51.13:955][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-14.51.13:955][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-14.51.13:955][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-14.51.13:955][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-14.51.13:956][935]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-14.51.13:982][935]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.20-14.52.13:582][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6255.711426
+[2025.11.20-14.52.14:582][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.52.14:582][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6256.380371, Update Interval: 333.220001
+[2025.11.20-14.53.03:344][546]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.11.20-14.53.03:356][546]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.11.20-14.53.03:364][546]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.11.20-14.53.03:390][548]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.11.20-14.53.07:647][796]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_TestMenu
+[2025.11.20-14.53.07:655][796]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.11.20-14.53.09:239][875]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.20-14.53.11:319][972]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/Screens/W_TestMenu.W_TestMenu
+[2025.11.20-14.53.11:320][972]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.20-14.53.11:327][972]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.20-14.54.18:989][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-14.54.19:090][340]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-14.54.19:093][340]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-14.54.19:093][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-14.54.19:105][340]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-14.54.19:107][340]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton0FBCE31F4BC2CAACFA8FE080A6ACFA66.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-14.54.19:121][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.967 ms (total: 312.876 ms)
+[2025.11.20-14.54.19:224][340]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-14.54.19:224][340]LogContentValidation: Enabled validators:
+[2025.11.20-14.54.19:224][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-14.54.19:224][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-14.54.19:224][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-14.54.19:224][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-14.54.19:224][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-14.54.19:224][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-14.54.19:225][340]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-14.54.20:154][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.20-14.54.20:920][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-14.54.21:022][420]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-14.54.21:028][420]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-14.54.21:028][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-14.54.21:041][420]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-14.54.21:042][420]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButtonB00B428F47240297ABFE74BBF9678760.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-14.54.21:058][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.572 ms (total: 451.448 ms)
+[2025.11.20-14.54.21:167][420]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-14.54.21:168][420]LogContentValidation: Enabled validators:
+[2025.11.20-14.54.21:168][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-14.54.21:168][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-14.54.21:168][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-14.54.21:168][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-14.54.21:168][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-14.54.21:168][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-14.54.21:168][420]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-14.54.59:012][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.20-14.54.59:852][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-14.54.59:961][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_TestMenu] ([2] browsable assets)...
+[2025.11.20-14.54.59:970][709]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_TestMenu.W_TestMenu]
+[2025.11.20-14.54.59:970][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_TestMenu]
+[2025.11.20-14.54.59:996][709]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_TestMenu
+[2025.11.20-14.54.59:996][709]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_TestMenu8535D6DD471BEB8246AC128957E2E8D6.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_TestMenu.uasset'
+[2025.11.20-14.55.00:023][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.973 ms (total: 622.422 ms)
+[2025.11.20-14.55.00:153][709]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-14.55.00:153][709]LogContentValidation: Enabled validators:
+[2025.11.20-14.55.00:153][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-14.55.00:153][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-14.55.00:153][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-14.55.00:153][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-14.55.00:153][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-14.55.00:153][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-14.55.00:154][709]AssetCheck: /Game/UI/Widgets/Screens/W_TestMenu Validating asset
+[2025.11.20-14.55.00:180][709]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.20-14.57.27:211][207]LogSlate: Took 0.007753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.20-14.58.11:573][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.20-14.58.19:206][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6621.326172
+[2025.11.20-14.58.19:375][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-14.58.19:375][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6621.479492, Update Interval: 338.164001
+[2025.11.20-14.58.58:222][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.20-14.58.58:226][437]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.033
+[2025.11.20-14.58.58:236][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-14.58.58:239][437]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-14.58.58:239][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-14.58.58:254][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/Reusable/W_BaseButton_Auto1
+[2025.11.20-14.58.58:254][437]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton_Auto14BC86D514A3EC45CB8F2CC8253E084D6.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/Autosaves/Game/UI/Widgets/Reusable/W_BaseButton_Auto1.uasset'
+[2025.11.20-14.58.58:255][437]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.11.20-15.01.31:997][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.20-15.01.32:725][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.01.32:828][981]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.01.32:833][981]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.01.32:833][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.01.32:847][981]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.01.32:847][981]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton61B6A87C43824C3E552E30B94834F2EF.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.01.32:864][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.780 ms (total: 761.202 ms)
+[2025.11.20-15.01.32:965][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.01.32:965][981]LogContentValidation: Enabled validators:
+[2025.11.20-15.01.32:965][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.01.32:965][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.01.32:965][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.01.32:965][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.01.32:965][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.01.32:965][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.01.32:966][981]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.01.52:938][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.01.53:050][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_TestMenu] ([2] browsable assets)...
+[2025.11.20-15.01.53:053][140]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_TestMenu.W_TestMenu]
+[2025.11.20-15.01.53:053][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_TestMenu]
+[2025.11.20-15.01.53:066][140]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_TestMenu
+[2025.11.20-15.01.53:066][140]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_TestMenuD73649FB43BB9B202A1B13982310EC09.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_TestMenu.uasset'
+[2025.11.20-15.01.53:082][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.989 ms (total: 905.191 ms)
+[2025.11.20-15.01.53:180][140]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.01.53:180][140]LogContentValidation: Enabled validators:
+[2025.11.20-15.01.53:180][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.01.53:180][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.01.53:180][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.01.53:180][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.01.53:180][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.01.53:180][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.01.53:181][140]AssetCheck: /Game/UI/Widgets/Screens/W_TestMenu Validating asset
+[2025.11.20-15.03.31:430][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.20-15.03.32:144][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.03.32:278][593]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_TestMenu] ([2] browsable assets)...
+[2025.11.20-15.03.32:283][593]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_TestMenu.W_TestMenu]
+[2025.11.20-15.03.32:283][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_TestMenu]
+[2025.11.20-15.03.32:295][593]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_TestMenu
+[2025.11.20-15.03.32:296][593]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_TestMenuFC638D4D472340417E36D08CB74F10E7.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_TestMenu.uasset'
+[2025.11.20-15.03.32:309][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.353 ms (total: 1.07 sec)
+[2025.11.20-15.03.32:408][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.03.32:408][593]LogContentValidation: Enabled validators:
+[2025.11.20-15.03.32:408][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.03.32:408][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.03.32:408][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.03.32:408][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.03.32:408][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.03.32:408][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.03.32:409][593]AssetCheck: /Game/UI/Widgets/Screens/W_TestMenu Validating asset
+[2025.11.20-15.03.36:596][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.20-15.03.37:373][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.03.37:473][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.03.37:477][861]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.03.37:477][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.03.37:489][861]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.03.37:490][861]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton75DED7364C367CD3817EE788920F1E16.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.03.37:503][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.315 ms (total: 1.20 sec)
+[2025.11.20-15.03.37:605][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.03.37:605][861]LogContentValidation: Enabled validators:
+[2025.11.20-15.03.37:605][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.03.37:605][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.03.37:605][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.03.37:605][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.03.37:605][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.03.37:606][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.03.37:606][861]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.04.00:183][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.11.20-15.04.00:923][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.04.01:042][220]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.04.01:046][220]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.04.01:046][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.04.01:058][220]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.04.01:059][220]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton41985FD642C4044D16C5C6A9FDE1E455.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.04.01:071][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.566 ms (total: 1.34 sec)
+[2025.11.20-15.04.01:169][220]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.04.01:169][220]LogContentValidation: Enabled validators:
+[2025.11.20-15.04.01:169][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.04.01:169][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.04.01:169][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.04.01:169][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.04.01:169][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.04.01:169][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.04.01:170][220]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.04.43:106][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7005.206543
+[2025.11.20-15.04.43:256][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.04.43:256][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7005.339355, Update Interval: 304.019287
+[2025.11.20-15.08.51:423][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.08.51:524][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.08.51:529][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.08.51:529][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.08.51:542][ 66]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.08.51:543][ 66]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton8F5E99BE4ABB681EE3373BBEE35044AB.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.08.51:557][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.277 ms (total: 1.48 sec)
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: Enabled validators:
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.08.51:670][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.08.51:670][ 66]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.08.52:537][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.20-15.10.35:829][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7357.912598
+[2025.11.20-15.10.36:830][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.10.36:830][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7358.577637, Update Interval: 327.977539
+[2025.11.20-15.11.02:239][796]LogDerivedDataCache: C:/Users/dmeid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.20-15.11.16:320][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.20-15.11.19:086][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.20-15.11.19:089][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.030
+[2025.11.20-15.11.19:089][ 78]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.11.19:093][ 78]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.11.19:093][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.11.19:107][ 78]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/Reusable/W_BaseButton_Auto2
+[2025.11.20-15.11.19:108][ 78]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton_Auto26791E13E4B5A256570ACCA9210A2CF26.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/Autosaves/Game/UI/Widgets/Reusable/W_BaseButton_Auto2.uasset'
+[2025.11.20-15.11.19:108][ 78]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.11.20-15.11.21:708][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.20-15.11.22:520][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.11.22:624][271]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.11.22:627][271]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.11.22:628][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.11.22:641][271]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.11.22:642][271]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButtonB2B0A50E48EB91ED14CD4AA8FAE4D006.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.11.22:655][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.575 ms (total: 1.61 sec)
+[2025.11.20-15.11.22:758][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.11.22:758][271]LogContentValidation: Enabled validators:
+[2025.11.20-15.11.22:758][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.11.22:758][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.11.22:758][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.11.22:758][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.11.22:758][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.11.22:758][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.11.22:759][271]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.11.41:283][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.20-15.11.41:827][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.11.41:959][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_TestMenu] ([2] browsable assets)...
+[2025.11.20-15.11.41:964][384]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_TestMenu.W_TestMenu]
+[2025.11.20-15.11.41:964][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_TestMenu]
+[2025.11.20-15.11.41:976][384]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_TestMenu
+[2025.11.20-15.11.41:977][384]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_TestMenu34A422B0493E33D40B5286AE2051B18F.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_TestMenu.uasset'
+[2025.11.20-15.11.41:991][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.095 ms (total: 1.78 sec)
+[2025.11.20-15.11.42:106][384]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.11.42:106][384]LogContentValidation: Enabled validators:
+[2025.11.20-15.11.42:106][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.11.42:106][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.11.42:106][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.11.42:106][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.11.42:106][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.11.42:106][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.11.42:106][384]AssetCheck: /Game/UI/Widgets/Screens/W_TestMenu Validating asset
+[2025.11.20-15.16.28:529][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.20-15.16.29:132][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.16.29:250][158]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.16.29:254][158]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.16.29:254][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.16.29:272][158]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.16.29:272][158]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton3F7BB1E6468D4B4B94D82A9061B936CC.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.16.29:285][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.801 ms (total: 1.93 sec)
+[2025.11.20-15.16.29:386][158]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.16.29:386][158]LogContentValidation: Enabled validators:
+[2025.11.20-15.16.29:386][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.16.29:386][158]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.16.29:386][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.16.29:386][158]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.16.29:386][158]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.16.29:386][158]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.16.29:387][158]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.17.00:747][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7742.811523
+[2025.11.20-15.17.00:912][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.17.00:912][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7742.960449, Update Interval: 335.644409
+[2025.11.20-15.17.08:418][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.11.20-15.17.09:090][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.17.09:205][317]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.17.09:209][317]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.17.09:209][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.17.09:225][317]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.17.09:225][317]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButton35C6A0724D1A5899D1EC228E6DD70128.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.17.09:241][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.647 ms (total: 2.08 sec)
+[2025.11.20-15.17.09:344][317]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.17.09:344][317]LogContentValidation: Enabled validators:
+[2025.11.20-15.17.09:344][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.17.09:344][317]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.17.09:344][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.17.09:344][317]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.17.09:344][317]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.17.09:344][317]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.17.09:344][317]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.23.26:589][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8128.642090
+[2025.11.20-15.23.26:757][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.23.26:757][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8128.791992, Update Interval: 310.948212
+[2025.11.20-15.29.19:748][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8481.793945
+[2025.11.20-15.29.19:881][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.29.19:881][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8481.912109, Update Interval: 304.958649
+[2025.11.20-15.35.18:278][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8840.245117
+[2025.11.20-15.35.18:430][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.35.18:430][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8840.378906, Update Interval: 333.943298
+[2025.11.20-15.35.54:136][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.20-15.35.54:856][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.35.54:954][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.35.54:959][923]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.35.54:959][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.35.54:975][923]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.35.54:976][923]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButtonAA3EC39844371B757BB073AF501EF2E8.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.35.54:989][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.210 ms (total: 2.22 sec)
+[2025.11.20-15.35.55:089][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.35.55:089][923]LogContentValidation: Enabled validators:
+[2025.11.20-15.35.55:089][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.35.55:089][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.35.55:089][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.35.55:089][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.35.55:089][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.35.55:089][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.35.55:090][923]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.36.03:565][418]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18422536946533973651
+[2025.11.20-15.36.03:565][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-15.36.03:584][419]LogSlate: Took 0.009107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.20-15.36.03:591][419]LogSlate: Took 0.006952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.20-15.36.03:593][419]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.20-15.36.03:593][419]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.20-15.36.03:604][419]LogSlate: Took 0.006963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.20-15.36.03:858][434]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 16
+[2025.11.20-15.36.03:858][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-15.36.03:868][435]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.20-15.36.03:869][435]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.20-15.36.03:870][435]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.20-15.36.03:870][435]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.20-15.36.03:875][435]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.20-15.36.04:011][443]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 9
+[2025.11.20-15.36.04:011][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-15.36.04:021][444]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.20-15.36.04:021][444]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.20-15.36.04:023][444]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.20-15.36.04:023][444]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.20-15.36.04:027][444]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.20-15.36.10:063][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.20-15.36.10:686][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.36.10:796][817]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.36.10:800][817]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.36.10:800][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.36.10:816][817]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.36.10:817][817]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButtonFD48369E4D0B535CB206A1B15F016C47.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.36.10:831][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.977 ms (total: 2.36 sec)
+[2025.11.20-15.36.10:929][817]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.36.10:929][817]LogContentValidation: Enabled validators:
+[2025.11.20-15.36.10:929][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.36.10:929][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.36.10:929][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.36.10:929][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.36.10:929][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.36.10:929][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.36.10:930][817]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.36.11:318][837]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 394
+[2025.11.20-15.36.11:319][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-15.36.11:325][838]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.20-15.36.11:325][838]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.20-15.36.11:327][838]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.20-15.36.11:331][838]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.20-15.36.11:333][838]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.20-15.36.13:616][974]LogSlate: Took 0.007289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.20-15.36.18:637][268]LogEditorTransaction: Undo Edit font size
+[2025.11.20-15.36.19:242][276]Cmd: TRANSACTION UNDO
+[2025.11.20-15.36.19:242][276]LogEditorTransaction: Undo Edit Typeface
+[2025.11.20-15.36.19:861][303]Cmd: TRANSACTION UNDO
+[2025.11.20-15.36.19:861][303]LogEditorTransaction: Undo Edit font size
+[2025.11.20-15.36.27:962][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.20-15.36.28:621][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-15.36.28:731][792]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-15.36.28:736][792]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-15.36.28:736][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-15.36.28:752][792]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-15.36.28:752][792]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButtonCFF1A348413EAC2DAEB8F4A7DB367C47.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-15.36.28:767][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.004 ms (total: 2.51 sec)
+[2025.11.20-15.36.28:867][792]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-15.36.28:867][792]LogContentValidation: Enabled validators:
+[2025.11.20-15.36.28:867][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-15.36.28:867][792]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-15.36.28:867][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-15.36.28:867][792]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-15.36.28:867][792]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-15.36.28:867][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-15.36.28:868][792]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
+[2025.11.20-15.41.46:261][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9227.829102
+[2025.11.20-15.41.46:411][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-15.41.46:411][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9227.961914, Update Interval: 349.262360
+[2025.11.20-16.16.11:243][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11292.593750
+[2025.11.20-16.16.11:394][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-16.16.11:394][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11292.729492, Update Interval: 332.395996
+[2025.11.20-16.22.15:784][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11657.085938
+[2025.11.20-16.22.16:785][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-16.22.16:785][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11657.752930, Update Interval: 305.167389
+[2025.11.20-16.28.13:844][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12015.159180
+[2025.11.20-16.28.14:843][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-16.28.14:843][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12015.826172, Update Interval: 315.264130
+[2025.11.20-16.34.04:934][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12366.181641
+[2025.11.20-16.34.05:934][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-16.34.05:935][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12366.848633, Update Interval: 308.232666
