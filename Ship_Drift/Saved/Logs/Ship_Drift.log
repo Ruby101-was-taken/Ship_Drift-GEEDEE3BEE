@@ -1640,3 +1640,48 @@ LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2025.11.20-16.34.04:934][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12366.181641
 [2025.11.20-16.34.05:934][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.20-16.34.05:935][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12366.848633, Update Interval: 308.232666
+[2025.11.20-16.39.55:608][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12716.853516
+[2025.11.20-16.39.56:610][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-16.39.56:610][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12717.519531, Update Interval: 316.677765
+[2025.11.20-16.39.59:376][589]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-16.40.10:875][589]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/dmeid/Downloads/Barriecito,Bungee,Caesar_Dressing,Dokdo,Germania_One,etc/Germania_One/GermaniaOne-Regular.ttf)
+[2025.11.20-16.40.11:640][589]LogDerivedDataCache: C:/Users/dmeid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.20-16.40.18:012][589]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.11.20-16.40.18:030][589]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.11.20-16.40.18:047][589]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.11.20-16.40.18:068][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-16.40.18:080][590]LogSlate: Took 0.001301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.20-16.40.18:085][590]LogSlate: Took 0.000699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.20-16.40.18:089][590]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.20-16.40.18:092][590]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.20-16.40.21:462][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2025.11.20-16.40.21:493][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.165
+[2025.11.20-16.40.21:494][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/Fonts/GermaniaOne-Regular_Font] ([1] browsable assets)...
+[2025.11.20-16.40.21:497][712]OBJ SavePackage:     Rendered thumbnail for [Font /Game/UI/Assets/Fonts/GermaniaOne-Regular_Font.GermaniaOne-Regular_Font]
+[2025.11.20-16.40.21:497][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/Fonts/GermaniaOne-Regular_Font]
+[2025.11.20-16.40.21:514][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/Fonts/GermaniaOne-Regular_Font_Auto3
+[2025.11.20-16.40.21:514][712]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/GermaniaOne-Regular_Font_Auto3F45D075E442DB0B316682796496148D9.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/Autosaves/Game/UI/Assets/Fonts/GermaniaOne-Regular_Font_Auto3.uasset'
+[2025.11.20-16.40.21:517][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Assets/Fonts/GermaniaOne-Regular] ([1] browsable assets)...
+[2025.11.20-16.40.21:517][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/Fonts/GermaniaOne-Regular]
+[2025.11.20-16.40.21:526][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/Fonts/GermaniaOne-Regular_Auto3
+[2025.11.20-16.40.21:526][712]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/GermaniaOne-Regular_Auto3C31640854F34A0FD6E864CBE61C9EADF.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/Autosaves/Game/UI/Assets/Fonts/GermaniaOne-Regular_Auto3.uasset'
+[2025.11.20-16.40.21:528][712]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.11.20-16.40.27:911][732]LogSlate: Took 0.003170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.20-16.40.27:912][732]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.20-16.41.03:348][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.11.20-16.41.04:034][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-16.41.04:149][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Reusable/W_BaseButton] ([2] browsable assets)...
+[2025.11.20-16.41.04:154][811]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton]
+[2025.11.20-16.41.04:154][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Reusable/W_BaseButton]
+[2025.11.20-16.41.04:172][811]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Reusable/W_BaseButton
+[2025.11.20-16.41.04:172][811]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_BaseButtonC03AEA9E41470525BC0F91973F52FC73.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Reusable/W_BaseButton.uasset'
+[2025.11.20-16.41.04:190][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.560 ms (total: 2.66 sec)
+[2025.11.20-16.41.04:292][811]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.20-16.41.04:292][811]LogContentValidation: Enabled validators:
+[2025.11.20-16.41.04:292][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-16.41.04:292][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-16.41.04:292][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-16.41.04:292][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-16.41.04:292][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-16.41.04:292][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-16.41.04:294][811]AssetCheck: /Game/UI/Widgets/Reusable/W_BaseButton Validating asset
