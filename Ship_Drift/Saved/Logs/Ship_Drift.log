@@ -1693,3 +1693,337 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.11.24-18.19.58:070][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2025.11.24-18.19.58:098][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2025.11.24-18.19.58:127][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.24-18.25.10:375][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3200.409668
+[2025.11.24-18.25.11:377][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.24-18.25.11:377][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3201.076904, Update Interval: 314.083069
+[2025.11.24-18.31.01:087][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3551.118408
+[2025.11.24-18.31.02:086][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.24-18.31.02:086][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3551.785156, Update Interval: 324.981842
+[2025.11.24-18.33.46:479][ 54]LogDerivedDataCache: C:/Users/dmeid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.24-18.37.14:142][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3924.171631
+[2025.11.24-18.37.15:142][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.24-18.37.15:142][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3924.838623, Update Interval: 356.861481
+[2025.11.24-18.46.16:290][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.24-18.46.22:239][508]LogContentBrowser: Attempting asset rename: W_MainMenu1 -> W_PauseMenu
+[2025.11.24-18.46.22:385][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.46.22:385][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.46.22:388][508]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.46.22:388][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.46.22:403][508]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.46.22:403][508]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenu84EE51414D0B873DAB8FBB879BB61E40.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.46.22:411][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.367 ms (total: 2.85 sec)
+[2025.11.24-18.46.22:452][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.11.24-18.46.22:480][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.24-18.46.22:503][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.24-18.46.22:606][508]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.46.22:606][508]LogContentValidation: Enabled validators:
+[2025.11.24-18.46.22:606][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.46.22:606][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.46.22:606][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.46.22:606][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.46.22:606][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.46.22:606][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.46.22:608][508]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.46.22:654][508]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.24-18.46.23:708][564]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu
+[2025.11.24-18.46.23:708][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.11.24-18.46.23:714][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.11.24-18.46.39:613][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4489.656738
+[2025.11.24-18.46.39:814][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.24-18.46.39:814][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4489.840332, Update Interval: 306.815399
+[2025.11.24-18.46.44:372][630]LogSlate: Took 0.011938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.11.24-18.46.55:591][164]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 16888
+[2025.11.24-18.46.55:591][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.46.55:601][165]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.24-18.46.55:606][165]LogSlate: Took 0.000593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.24-18.46.55:607][165]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.24-18.46.55:611][165]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.24-18.46.55:613][165]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.24-18.46.55:614][165]LogSlate: Took 0.000917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.11.24-18.46.55:615][165]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.24-18.48.46:735][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.24-18.48.47:328][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.48.47:435][151]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.48.47:438][151]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.48.47:438][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.48.47:455][151]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.48.47:456][151]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenuF5A7A7BE4D4AB510C9369EA57E777AB5.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.48.47:475][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.760 ms (total: 3.00 sec)
+[2025.11.24-18.48.47:579][151]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.48.47:580][151]LogContentValidation: Enabled validators:
+[2025.11.24-18.48.47:580][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.48.47:580][151]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.48.47:580][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.48.47:580][151]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.48.47:580][151]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.48.47:580][151]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.48.47:581][151]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.48.50:262][279]LogSlate: Window 'W_PauseMenu' being destroyed
+[2025.11.24-18.48.52:439][407]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.48.52:440][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.48.52:492][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.24-18.48.58:776][764]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/Reusable/W_BaseButton.W_BaseButton
+[2025.11.24-18.48.58:776][764]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.11.24-18.48.58:797][764]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.11.24-18.49.27:601][393]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Data/Styles/BP_BodyText_Style.BP_BodyText_Style
+[2025.11.24-18.49.27:601][393]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.11.24-18.49.32:893][669]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.49.32:893][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.49.32:976][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.24-18.49.36:492][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Data/Styles/BP_BaseButton_Style.BP_BaseButton_Style
+[2025.11.24-18.49.36:492][864]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.11.24-18.49.56:743][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Data/Styles/BP_BaseButtonText_Style.BP_BaseButtonText_Style
+[2025.11.24-18.49.56:743][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.11.24-18.50.02:685][330]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.50.02:685][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.50.02:761][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.24-18.50.15:280][ 68]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.24-18.50.49:401][ 92]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.24-18.50.52:468][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.24-18.50.53:118][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.50.53:229][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Data/Styles/BP_BaseButton_Style] ([2] browsable assets)...
+[2025.11.24-18.50.53:229][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Data/Styles/BP_BaseButton_Style]
+[2025.11.24-18.50.53:240][296]LogSavePackage: Moving output files for package: /Game/UI/Data/Styles/BP_BaseButton_Style
+[2025.11.24-18.50.53:240][296]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/BP_BaseButton_Style2F577D294EA9BFB7DF8619A99DE9533B.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Data/Styles/BP_BaseButton_Style.uasset'
+[2025.11.24-18.50.53:256][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.309 ms (total: 3.14 sec)
+[2025.11.24-18.50.53:359][296]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.50.53:359][296]LogContentValidation: Enabled validators:
+[2025.11.24-18.50.53:359][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.50.53:359][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.50.53:359][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.50.53:359][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.50.53:359][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.50.53:359][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.50.53:360][296]AssetCheck: /Game/UI/Data/Styles/BP_BaseButton_Style Validating asset
+[2025.11.24-18.50.55:230][405]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.50.55:230][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.50.55:236][405]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.50.55:236][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.50.55:292][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.24-18.50.56:589][480]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.50.56:590][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.50.56:645][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.24-18.51.29:919][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.29:921][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.29:989][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:001][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:013][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:020][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:076][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:095][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:101][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:160][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:169][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:242][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:253][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:258][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:334][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:397][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:471][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:486][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.30:544][432]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.24-18.51.47:004][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.24-18.51.47:562][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.51.47:676][419]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.51.47:679][419]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.51.47:679][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.51.47:696][419]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.51.47:696][419]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenuBA6D073F4F167B00E4108EB39A4547A1.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.51.47:712][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.584 ms (total: 3.29 sec)
+[2025.11.24-18.51.47:830][419]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.51.47:831][419]LogContentValidation: Enabled validators:
+[2025.11.24-18.51.47:831][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.51.47:831][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.51.47:831][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.51.47:831][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.51.47:831][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.51.47:831][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.51.47:832][419]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.52.26:278][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4836.302246
+[2025.11.24-18.52.26:414][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.24-18.52.26:414][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4836.425293, Update Interval: 354.647675
+[2025.11.24-18.52.33:285][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.24-18.52.33:720][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.52.33:829][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.52.33:834][891]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.52.33:834][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.52.33:850][891]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.52.33:850][891]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenu4FE09FB244AB9C90FBEE8C993DA8AB97.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.52.33:866][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.606 ms (total: 3.43 sec)
+[2025.11.24-18.52.33:968][891]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.52.33:968][891]LogContentValidation: Enabled validators:
+[2025.11.24-18.52.33:968][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.52.33:968][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.52.33:968][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.52.33:968][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.52.33:968][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.52.33:968][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.52.33:969][891]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.53.14:074][701]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.24-18.53.18:354][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.24-18.53.18:882][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.53.18:990][971]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.53.18:994][971]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.53.18:994][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.53.19:009][971]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.53.19:009][971]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenu60DB49154F46127AE5E0EA8A80354A1F.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.53.19:024][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.348 ms (total: 3.57 sec)
+[2025.11.24-18.53.19:126][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.53.19:126][971]LogContentValidation: Enabled validators:
+[2025.11.24-18.53.19:126][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.53.19:126][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.53.19:126][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.53.19:126][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.53.19:126][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.53.19:126][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.53.19:128][971]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.53.25:301][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.24-18.53.35:153][873]LogContentBrowser: Attempting asset rename: BP_HeaderText_Style1 -> BP_TitleText_Style
+[2025.11.24-18.53.35:306][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.53.35:306][873]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Data/Styles/BP_TitleText_Style] ([2] browsable assets)...
+[2025.11.24-18.53.35:306][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Data/Styles/BP_TitleText_Style]
+[2025.11.24-18.53.35:318][873]LogSavePackage: Moving output files for package: /Game/UI/Data/Styles/BP_TitleText_Style
+[2025.11.24-18.53.35:318][873]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/BP_TitleText_StyleD755B5D94392D2BFFEA6BC91DA3613B0.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Data/Styles/BP_TitleText_Style.uasset'
+[2025.11.24-18.53.35:325][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.447 ms (total: 3.59 sec)
+[2025.11.24-18.53.35:371][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.24-18.53.35:402][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.24-18.53.35:431][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.24-18.53.35:550][873]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.53.35:550][873]LogContentValidation: Enabled validators:
+[2025.11.24-18.53.35:550][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.53.35:550][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.53.35:550][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.53.35:550][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.53.35:550][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.53.35:550][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.53.35:550][873]AssetCheck: /Game/UI/Data/Styles/BP_TitleText_Style Validating asset
+[2025.11.24-18.53.35:598][873]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.24-18.53.46:451][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.24-18.53.46:950][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.53.47:059][510]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_MainMenu] ([2] browsable assets)...
+[2025.11.24-18.53.47:066][510]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_MainMenu.W_MainMenu]
+[2025.11.24-18.53.47:066][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_MainMenu]
+[2025.11.24-18.53.47:082][510]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_MainMenu
+[2025.11.24-18.53.47:083][510]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_MainMenu281B4B794F6AF4FE19C1279A36DAD89A.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_MainMenu.uasset'
+[2025.11.24-18.53.47:097][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.984 ms (total: 3.74 sec)
+[2025.11.24-18.53.47:201][510]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.53.47:201][510]LogContentValidation: Enabled validators:
+[2025.11.24-18.53.47:201][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.53.47:201][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.53.47:201][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.53.47:201][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.53.47:201][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.53.47:201][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.53.47:202][510]AssetCheck: /Game/UI/Widgets/Screens/W_MainMenu Validating asset
+[2025.11.24-18.54.03:905][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.24-18.54.04:455][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.54.04:565][501]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.54.04:570][501]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.54.04:571][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.54.04:595][501]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.54.04:596][501]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenu3EBA7BC24B1F1F5DE2EEAFA65CBABFB2.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.54.04:612][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.143 ms (total: 3.89 sec)
+[2025.11.24-18.54.04:705][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.54.04:706][501]LogContentValidation: Enabled validators:
+[2025.11.24-18.54.04:706][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.54.04:706][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.54.04:706][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.54.04:706][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.54.04:706][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.54.04:706][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.54.04:707][501]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.54.07:903][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Data/Styles/BP_HeaderText_Style.BP_HeaderText_Style
+[2025.11.24-18.54.07:904][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.11.24-18.54.12:183][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.24-18.54.12:791][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.54.12:903][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Data/Styles/BP_HeaderText_Style] ([2] browsable assets)...
+[2025.11.24-18.54.12:903][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Data/Styles/BP_HeaderText_Style]
+[2025.11.24-18.54.12:917][922]LogSavePackage: Moving output files for package: /Game/UI/Data/Styles/BP_HeaderText_Style
+[2025.11.24-18.54.12:918][922]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/BP_HeaderText_Style10439BDF49B2AE3D1A9CEDB7C85128B0.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Data/Styles/BP_HeaderText_Style.uasset'
+[2025.11.24-18.54.12:933][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.918 ms (total: 4.04 sec)
+[2025.11.24-18.54.13:035][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.54.13:035][922]LogContentValidation: Enabled validators:
+[2025.11.24-18.54.13:035][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.54.13:035][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.54.13:035][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.54.13:035][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.54.13:035][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.54.13:035][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.54.13:035][922]AssetCheck: /Game/UI/Data/Styles/BP_HeaderText_Style Validating asset
+[2025.11.24-18.54.47:693][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.24-18.54.48:189][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.54.48:296][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Data/Styles/BP_HeaderText_Style] ([2] browsable assets)...
+[2025.11.24-18.54.48:296][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Data/Styles/BP_HeaderText_Style]
+[2025.11.24-18.54.48:308][  1]LogSavePackage: Moving output files for package: /Game/UI/Data/Styles/BP_HeaderText_Style
+[2025.11.24-18.54.48:309][  1]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/BP_HeaderText_Style72C3816547E024286ADDBE94E02CF925.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Data/Styles/BP_HeaderText_Style.uasset'
+[2025.11.24-18.54.48:327][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.827 ms (total: 4.17 sec)
+[2025.11.24-18.54.48:429][  1]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.54.48:429][  1]LogContentValidation: Enabled validators:
+[2025.11.24-18.54.48:429][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.54.48:429][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.54.48:429][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.54.48:429][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.54.48:429][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.54.48:429][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.54.48:429][  1]AssetCheck: /Game/UI/Data/Styles/BP_HeaderText_Style Validating asset
+[2025.11.24-18.56.14:320][876]LogEditorTransaction: Undo Move Widget
+[2025.11.24-18.56.29:315][634]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.11.24-18.56.39:362][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.24-18.56.39:928][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.56.40:036][156]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.56.40:041][156]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.56.40:041][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.56.40:058][156]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.56.40:058][156]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenuE22D370B4968C31419B49098602B22A3.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.56.40:074][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.905 ms (total: 4.32 sec)
+[2025.11.24-18.56.40:175][156]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.56.40:175][156]LogContentValidation: Enabled validators:
+[2025.11.24-18.56.40:175][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.56.40:175][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.56.40:175][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.56.40:175][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.56.40:175][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.56.40:175][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.56.40:176][156]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.56.44:490][409]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-18.56.44:490][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-18.56.44:539][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.24-18.57.11:696][916]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.11.24-18.58.00:154][686]LogEditorTransaction: Undo Rename Widget
+[2025.11.24-18.58.46:704][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.24-18.58.47:159][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.58.47:265][274]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.58.47:271][274]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.58.47:271][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.58.47:286][274]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.58.47:288][274]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenuDABDAE484A164084482E3692BB515D1E.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.58.47:303][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.266 ms (total: 4.46 sec)
+[2025.11.24-18.58.47:405][274]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.58.47:405][274]LogContentValidation: Enabled validators:
+[2025.11.24-18.58.47:405][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.58.47:405][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.58.47:405][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.58.47:405][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.58.47:405][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.58.47:405][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.58.47:406][274]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
+[2025.11.24-18.58.51:620][389]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5221.651367
+[2025.11.24-18.58.51:761][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.24-18.58.51:761][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5221.775391, Update Interval: 326.959442
+[2025.11.24-18.59.02:241][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.24-18.59.02:808][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.24-18.59.02:918][951]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Screens/W_PauseMenu] ([2] browsable assets)...
+[2025.11.24-18.59.02:923][951]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Screens/W_PauseMenu.W_PauseMenu]
+[2025.11.24-18.59.02:923][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Screens/W_PauseMenu]
+[2025.11.24-18.59.02:940][951]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Screens/W_PauseMenu
+[2025.11.24-18.59.02:941][951]LogSavePackage: Moving '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Saved/W_PauseMenuA8EA0258423308538B7FCD892848AC36.tmp' to '../../../../../../Users/dmeid/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE/Ship_Drift/Content/UI/Widgets/Screens/W_PauseMenu.uasset'
+[2025.11.24-18.59.02:960][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.079 ms (total: 4.62 sec)
+[2025.11.24-18.59.03:070][951]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.24-18.59.03:070][951]LogContentValidation: Enabled validators:
+[2025.11.24-18.59.03:070][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.24-18.59.03:070][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.24-18.59.03:070][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.24-18.59.03:070][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.24-18.59.03:070][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.24-18.59.03:070][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.24-18.59.03:071][951]AssetCheck: /Game/UI/Widgets/Screens/W_PauseMenu Validating asset
