@@ -2,6 +2,7 @@
 
 
 #include "ShipCharacterBase.h"
+#include "BasicAttributeSet.h"
 
 // Sets default values
 AShipCharacterBase::AShipCharacterBase()
@@ -13,6 +14,9 @@ AShipCharacterBase::AShipCharacterBase()
 	AbilitySystemComponent = CreateDefaultSubobject<UAbilitySystemComponent>(TEXT("AbilitySystemComponent"));
 	AbilitySystemComponent->SetIsReplicated(true);
 	AbilitySystemComponent->SetReplicationMode(AscReplicationMode);
+
+	// Add Basic Attribute Set
+	BasicAttributeSet = CreateDefaultSubobject<UBasicAttributeSet>(TEXT("BasicAttributeSet"));
 }
 
 // Called when the game starts or when spawned
