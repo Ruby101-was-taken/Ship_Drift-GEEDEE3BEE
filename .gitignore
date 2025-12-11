@@ -73,5 +73,3 @@ Ship_Drift/Plugins/**/Intermediate/*
 # Cache files for the editor to use
 Ship_Drift/DerivedDataCache/*
 Ship_Drift/Saved/Logs/Ship_Drift.log
-/Ship_Drift/Saved
-/Ship_Drift/Intermediate
