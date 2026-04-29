@@ -75,3 +75,5 @@ Ship_Drift/DerivedDataCache/*
 Ship_Drift/Saved/Logs/Ship_Drift.log
 /Ship_Drift/Saved
 /Ship_Drift/Intermediate
+/Ship_Drift/Content/Textures/UI/Characters/Portrait
+Ship_Drift/Content/Textures/UI/Logo_Small.png
